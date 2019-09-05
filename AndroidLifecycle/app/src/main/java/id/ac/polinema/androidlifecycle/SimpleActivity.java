@@ -2,11 +2,12 @@ package id.ac.polinema.androidlifecycle;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 public class SimpleActivity extends AppCompatActivity {
-
     private EditText nameInput;
     private TextView outputText;
 
